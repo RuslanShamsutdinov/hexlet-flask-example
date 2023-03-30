@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "hexlet_flask_example"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.8.1,<4.0"
 
 
 [build-system]
